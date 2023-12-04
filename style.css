@@ -1,6 +1,21 @@
 h1 {
   color:green;
-  }
+}
 html {
   background:red;
-  }
+}
+#red {
+  color:red;
+}
+#blue {
+  color:blue;
+}
+#green {
+  color:green;
+}
+#yellow {
+  color:yellow;
+}
+#orange {
+  color:orange;
+}
